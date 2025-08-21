@@ -16,7 +16,7 @@
 
 ### Step 2: Hardware Schematic
 - Four pin DHT22
-<img src="./DHT22_esp32.png" width=40% height=40%>
+<img src="./DHT22_ESP32.png" width=40% height=40%>
 
 ### Step 3: Running the program
 - Copy the code to the Arduino IDE
